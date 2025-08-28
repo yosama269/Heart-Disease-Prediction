@@ -22,17 +22,3 @@ A Machine Learning project that predicts the likelihood of heart disease using p
 - `models/` → Trained models in `.pkl` format  
 
 ---
-
-## ⚙️ Setup Instructions
-```bash
-# Clone the repository
-git clone https://github.com/your-username/Heart-Disease-Prediction.git
-cd Heart-Disease-Prediction
-
-# Create virtual environment (optional but recommended)
-python -m venv venv
-source venv/bin/activate   # (Linux/Mac)
-venv\Scripts\activate      # (Windows)
-
-# Install dependencies
-pip install -r requirements.txt
